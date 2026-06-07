@@ -52,6 +52,3 @@ Currently working on
 Data structures and algorithms via LeetCode, daily.
 Full-stack development with React, FastAPI, and PostgreSQL.
 CS50x — Harvard's intro computer science course.
-Contact
-17misghinas@gmail.com
-LinkedIn: linkedin.com/in/YOUR-LINKEDIN
